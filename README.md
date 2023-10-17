@@ -1,2 +1,2 @@
 # ReadingDataAnalysis
-an analysis of my reading data exported from goodreads
+An analysis of my reading data exported from goodreads.
