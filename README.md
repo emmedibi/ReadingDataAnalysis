@@ -1,6 +1,13 @@
 # ReadingDataAnalysis
 An analysis of my reading data exported from [Goodreads](https://www.goodreads.com/).
 
+# Setup
+The language used for this analysis is *Python*
+## Python and packages used
+- Data Manipulation: `pandas` and `numpy`
+- Visualization: `seaborn` and `matplotlib`
+
+
 # Data Source
 The file (goodreads_library.csv) is my reading data exported from goodreads.
 ## Inside the file
