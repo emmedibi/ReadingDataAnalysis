@@ -36,3 +36,20 @@ The file is composed of the following columns:
 - Private Notes
 - Read Count: how many time you have read the book
 - Owned Copies
+
+# Questions
+1. How many books I have read from 2019? (from the first year I effectivly used the app)
+2. What is the longest book I have read from 2019? And the shorter?
+3. Who is the *author* whose books you have read the most?
+4.  Who is the *publisher* whose books you have read the most?
+5.  The book that waited the least to be read
+6.  The book that waited the most to be read
+7.  Who is the author whose books you want to read the most in the future?
+8.  What is the this year's books I rated 5 stars?
+9.  What's my rating average?
+10.  What's the relationship between my ratings and goodreads community's ratings?
+
+# Plots
+1. the books read per year
+2. the books added on my goodreads whishlist per year
+3. show the previous two dataset in one plot
