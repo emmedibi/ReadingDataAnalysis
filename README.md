@@ -53,3 +53,20 @@ The file is composed of the following columns:
 1. the books read per year
 2. the books added on my goodreads whishlist per year
 3. show the previous two dataset in one plot
+
+# Results and evalutations
+From the data I could see that, from 2019, I read 192 books, with this distribution:
+![image](https://github.com/emmedibi/ReadingDataAnalysis/assets/55384897/c0eed7f6-5855-4ff1-99bd-c6770ddbacc5)
+
+As you can see, in 2022 (on going) I read more than I did in 2021.
+
+I found out that the author whose books I read the most are comics artist. The publisher I read the most is Longanesi (italian publisher).
+
+I analyze the relationship (correlation) between my ratings and the average of ratings on goodreads.
+As you can see from the graphic, the correlation is just above the zero (0,33)
+To have the right measure of the correlation, I detected possibile outliers and I dropped them from the datasets.
+At the end, the correlation without outliers is closer to zero than the previous one (0,3).
+
+![image](https://github.com/emmedibi/ReadingDataAnalysis/assets/55384897/9806a70e-ec54-4f26-9e08-c3677abc6202)
+
+That means I can't rely on goodreads' average ratings to choose a new book to read.
