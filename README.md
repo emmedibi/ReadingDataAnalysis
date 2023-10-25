@@ -38,20 +38,20 @@ The file is composed of the following columns:
 - Owned Copies
 
 # Questions
-1. How many books I have read from 2019? (from the first year I effectivly used the app)
-2. What is the longest book I have read from 2019? And the shorter?
+1. How many books have I read from 2019? (since the first year I used the app effectively)
+2. What is the longest book I have read from 2019? And the shorter one?
 3. Who is the *author* whose books I have read the most?
-4.  Who is the *publisher* whose books I have read the most?
-5.  The book that waited the least to be read
-6.  The book that waited the most to be read
-7.  Who is the author whose books I want to read the most in the future?
-8.  What is the this year's books I rated 5 stars?
-9.  What's my rating average?
-10.  What's the relationship between my ratings and goodreads community's ratings?
+4. Who is the *publisher* whose books I have read the most?
+5. The book that waited the least to be read
+6. The book that waited the most to be read
+7. Who is the author whose books I want to read the most in the future?
+8. What books did I rate 5 stars this year?
+9. What's my rating average?
+10. What's the relationship between my ratings and goodreads community's ratings?
 
 # Plots
 1. the books read per year
-2. the books added on my goodreads whishlist per year
+2. the books added on my goodreads wishlist per year
 3. show the previous two dataset in one plot
 
 # Results and evalutations
@@ -60,9 +60,9 @@ From the data I could see that, from 2019, I read 192 books, with this distribut
 
 As you can see, in 2022 (on going) I read more than I did in 2021.
 
-I found out that the author whose books I read the most are comics artist. The publisher I read the most is Longanesi (italian publisher).
+I found out that the authors whose books I have read the most are comics artist. The publisher I have read the most is Longanesi (italian publisher).
 
-I analyze the relationship (correlation) between my ratings and the average of ratings on goodreads.
+I analyzed the relationship (correlation) between my ratings and the average of ratings on Goodreads for the same books.
 As you can see from the graphic, the correlation is just above the zero (0,33)
 To have the right measure of the correlation, I detected possibile outliers and I dropped them from the datasets.
 At the end, the correlation without outliers is closer to zero than the previous one (0,3).
