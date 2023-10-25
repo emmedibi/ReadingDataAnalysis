@@ -40,11 +40,11 @@ The file is composed of the following columns:
 # Questions
 1. How many books I have read from 2019? (from the first year I effectivly used the app)
 2. What is the longest book I have read from 2019? And the shorter?
-3. Who is the *author* whose books you have read the most?
-4.  Who is the *publisher* whose books you have read the most?
+3. Who is the *author* whose books I have read the most?
+4.  Who is the *publisher* whose books I have read the most?
 5.  The book that waited the least to be read
 6.  The book that waited the most to be read
-7.  Who is the author whose books you want to read the most in the future?
+7.  Who is the author whose books I want to read the most in the future?
 8.  What is the this year's books I rated 5 stars?
 9.  What's my rating average?
 10.  What's the relationship between my ratings and goodreads community's ratings?
