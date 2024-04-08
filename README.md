@@ -1,5 +1,5 @@
 # ReadingDataAnalysis
-An analysis of my reading data exported from [Goodreads](https://www.goodreads.com/).
+(COMPLETED) An analysis of my reading data exported from [Goodreads](https://www.goodreads.com/).
 
 # Setup
 The language used for this analysis is *Python*
